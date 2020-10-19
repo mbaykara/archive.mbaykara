@@ -1,3 +1,3 @@
 # mbaykara.github.io
 
-comming soon!
+coming soon!
