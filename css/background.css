@@ -1,7 +1,11 @@
 body {
-  background-color:#f9f6ef;
+  background-color:rgb(46, 43, 43);
+  color: white;
   position: absolute;
-  left: 100px;
+  text-align: center;
+  margin: auto;
+  margin-left: 100px;
+
   top: 80px;
 }
 
@@ -11,7 +15,37 @@ h1 {
 }
 
 .dark-mode {
-  background-color: rgb(46, 43, 43);
-  color: white;
+  background-color: rgb(228, 220, 220);
+  color: black;
 
+}
+
+.fa {
+  padding: 20px;
+  width: 50px;
+  height: 100;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-twitter {
+  color: rgb(12, 94, 187);
+
+}
+
+.fa-linkedin {
+  color: rgb(12, 94, 187);
+}
+
+.fa-github{
+  color: black;
+}
+
+.fa-medium{
+  color: black;
 }
