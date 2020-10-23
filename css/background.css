@@ -9,6 +9,9 @@ body {
   top: 80px;
 }
 
+span {
+  content: "\00A9";
+}
 h1 {
   color: rgb(214, 195, 170);
   margin-left: 20px;
