@@ -1,4 +1,3 @@
 # mbaykara.github.io
-
-coming soon!
+My personal website or rather my resume.
 https://mbaykara.github.io
